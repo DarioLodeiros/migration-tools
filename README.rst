@@ -1,7 +1,7 @@
 Migration Tools
 ===============
 
-This module is for providing a migration of the hotel content from Odoo 10.0 to odoo 11.0.
+This module is for providing a migration of the hotel content from Odoo 11.0 to odoo 14.0.
 
 **Known Issues**
   - Because models use the same cursor and the Environment holds various caches, these caches
